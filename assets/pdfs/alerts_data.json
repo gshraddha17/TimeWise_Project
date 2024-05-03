@@ -1,0 +1,145 @@
+{
+    "age_groups": [
+      {
+        "group": "1-10 years",
+        "nutrient_levels": {
+          "protein_g_per_kg": {
+            "safe_level": {"min": 1.2, "max": 2},
+            "medium_risk_level": {"min": 2, "max": 2.5},
+            "high_risk_level": {"min": 2.5, "max": 3}
+          },
+          "carbohydrate_%_of_calories": {
+            "safe_level": {"min": 45, "max": 65},
+            "medium_risk_level": {"min": 35, "max": 45},
+            "high_risk_level": {"min": 25, "max": 35}
+          },
+          "saturated_fat_%_of_calories": {
+            "safe_level": {"max": 10},
+            "medium_risk_level": {"min": 10, "max": 15},
+            "high_risk_level": {"min": 15}
+          },
+          "unsaturated_fat_%_of_calories": {
+            "safe_level": {"min": 20},
+            "medium_risk_level": {"min": 15, "max": 20},
+            "high_risk_level": {"max": 15}
+          },
+          "trans_fat_%_of_calories": {
+            "safe_level": {"max": 1},
+            "medium_risk_level": {"min": 1, "max": 2},
+            "high_risk_level": {"min": 2}
+          },
+          "potassium_mg_per_day": {
+            "safe_level": {"min": 3500, "max": 4700},
+            "medium_risk_level": {"min": 2500, "max": 3500},
+            "high_risk_level": {"max": 2500}
+          }
+        }
+      },
+      {
+        "group": "10-20 years",
+        "nutrient_levels": {
+          "protein_g_per_kg": {
+            "safe_level": {"min": 1.2, "max": 2},
+            "medium_risk_level": {"min": 2, "max": 2.5},
+            "high_risk_level": {"min": 2.5, "max": 3}
+          },
+          "carbohydrate_%_of_calories": {
+            "safe_level": {"min": 45, "max": 65},
+            "medium_risk_level": {"min": 35, "max": 45},
+            "high_risk_level": {"min": 25, "max": 35}
+          },
+          "saturated_fat_%_of_calories": {
+            "safe_level": {"max": 10},
+            "medium_risk_level": {"min": 10, "max": 15},
+            "high_risk_level": {"min": 15}
+          },
+          "unsaturated_fat_%_of_calories": {
+            "safe_level": {"min": 20},
+            "medium_risk_level": {"min": 15, "max": 20},
+            "high_risk_level": {"max": 15}
+          },
+          "trans_fat_%_of_calories": {
+            "safe_level": {"max": 1},
+            "medium_risk_level": {"min": 1, "max": 2},
+            "high_risk_level": {"min": 2}
+          },
+          "potassium_mg_per_day": {
+            "safe_level": {"min": 3500, "max": 4700},
+            "medium_risk_level": {"min": 2500, "max": 3500},
+            "high_risk_level": {"max": 2500}
+          }
+        }
+      },
+      {
+        "group": "20-40 years",
+        "nutrient_levels": {
+          "protein_g_per_kg": {
+            "safe_level": {"min": 1.2, "max": 2},
+            "medium_risk_level": {"min": 2, "max": 2.5},
+            "high_risk_level": {"min": 2.5, "max": 3}
+          },
+          "carbohydrate_%_of_calories": {
+            "safe_level": {"min": 45, "max": 65},
+            "medium_risk_level": {"min": 35, "max": 45},
+            "high_risk_level": {"min": 25, "max": 35}
+          },
+          "saturated_fat_%_of_calories": {
+            "safe_level": {"max": 10},
+            "medium_risk_level": {"min": 10, "max": 15},
+            "high_risk_level": {"min": 15}
+          },
+          "unsaturated_fat_%_of_calories": {
+            "safe_level": {"min": 20},
+            "medium_risk_level": {"min": 15, "max": 20},
+            "high_risk_level": {"max": 15}
+          },
+          "trans_fat_%_of_calories": {
+            "safe_level": {"max": 1},
+            "medium_risk_level": {"min": 1, "max": 2},
+            "high_risk_level": {"min": 2}
+          },
+          "potassium_mg_per_day": {
+            "safe_level": {"min": 3500, "max": 4700},
+            "medium_risk_level": {"min": 2500, "max": 3500},
+            "high_risk_level": {"max": 2500}
+          }
+        }
+      },
+      {
+        "group": "40-80 years",
+        "nutrient_levels": {
+          "protein_g_per_kg": {
+            "safe_level": {"min": 1.2, "max": 2},
+            "medium_risk_level": {"min": 2, "max": 2.5},
+            "high_risk_level": {"min": 2.5, "max": 3}
+          },
+          "carbohydrate_%_of_calories": {
+            "safe_level": {"min": 45, "max": 65},
+            "medium_risk_level": {"min": 35, "max": 45},
+            "high_risk_level": {"min": 25, "max": 35}
+          },
+          "saturated_fat_%_of_calories": {
+            "safe_level": {"max": 10},
+            "medium_risk_level": {"min": 10, "max": 15},
+            "high_risk_level": {"min": 15}
+          },
+          "unsaturated_fat_%_of_calories": {
+            "safe_level": {"min": 20},
+            "medium_risk_level": {"min": 15, "max": 20},
+            "high_risk_level": {"max": 15}
+          },
+          "trans_fat_%_of_calories": {
+            "safe_level": {"max": 1},
+            "medium_risk_level": {"min": 1, "max": 2},
+            "high_risk_level": {"min": 2}
+          },
+          "potassium_mg_per_day": {
+            "safe_level": {"min": 3500, "max": 4700},
+            "medium_risk_level": {"min": 2500, "max": 3500},
+            "high_risk_level": {"max": 2500}
+          }
+        }
+      }
+    ]
+  }
+  
